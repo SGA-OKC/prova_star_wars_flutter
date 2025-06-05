@@ -13,18 +13,21 @@ Este é um app Flutter simples que exibe planetas e veículos do universo Star W
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/star-wars-app.git
-cd star-wars-app
+https://github.com/SGA-OKC/prova_star_wars_flutter.git
+cd prova_star_wars_flutter
+```
 
 2. Instale as Dependências:
 
 ```bash 
 flutter pub get
+```
 
 3. Rode no navegador:
 
 ```bash
 flutter run
+```
 
 == 📦 **Dependências**
 
