@@ -1,16 +1,3 @@
-# star_wars
+== 🚀 Star Wars
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Um aplicativo Flutter que consome a https://swapi.dev para exibir uma lista de personagens do universo Star Wars. O objetivo é demonstrar a integração com APIs públicas, tratamento de dados e navegação entre telas no Flutter.
