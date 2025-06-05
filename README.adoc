@@ -1,16 +1,37 @@
-== 🚀 Star Wars
+== 🚀 Star Wars Planets e Vehicles App
 
-App Flutter que usa a API pública SWAPI para mostrar uma lista de personagens do universo Star Wars. Ideal para aprender a consumir APIs, lidar com dados e navegar entre telas.
+== 📝 **Descrição**
+Este é um app Flutter simples que exibe planetas e veículos do universo Star Wars usando a [SWAPI](https://swapi.dev). Ele consome a API via HTTP e usa um proxy para funcionar no navegador (Chrome), evitando erros de CORS.
 
-== 📱 Funcionalidades
+== 📱 **Funcionalidades**
 
-Lista personagens de Star Wars.
+- Lista de planetas
+- Lista de veículos
+- Dados carregados da API SWAPI
+- Funciona no Chrome com proxy CORS
 
-Detalhes de cada personagem.
+== 🎮 **Como Executar**
 
-Animações e navegação simples entre telas.
+1. Clone o repositório:
 
-Tratamento básico de erros (ex: falha na conexão).
+```bash
+git clone https://github.com/seu-usuario/star-wars-app.git
+cd star-wars-app
 
-Adaptado para Flutter Web com solução para CORS.
+2. Instale as Dependências:
+
+```bash 
+flutter pub get
+
+3. Rode no navegador:
+
+```bash
+flutter run
+
+== 📦 **Dependências**
+
+- Flutter
+- http
+
+
 
