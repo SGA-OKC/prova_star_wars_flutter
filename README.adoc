@@ -1,3 +1,16 @@
 == 🚀 Star Wars
 
-Um aplicativo Flutter que consome a https://swapi.dev para exibir uma lista de personagens do universo Star Wars. O objetivo é demonstrar a integração com APIs públicas, tratamento de dados e navegação entre telas no Flutter.
+App Flutter que usa a API pública SWAPI para mostrar uma lista de personagens do universo Star Wars. Ideal para aprender a consumir APIs, lidar com dados e navegar entre telas.
+
+== 📱 Funcionalidades
+
+Lista personagens de Star Wars.
+
+Detalhes de cada personagem.
+
+Animações e navegação simples entre telas.
+
+Tratamento básico de erros (ex: falha na conexão).
+
+Adaptado para Flutter Web com solução para CORS.
+
