@@ -38,5 +38,6 @@ flutter run
 - http
 
 == 📩 **Contato**
-Vitor Eduardo
 
+*  **Vitor Eduardo Eleoterio**
+https://github.com/SGA-OKC
